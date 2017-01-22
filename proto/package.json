@@ -1,0 +1,21 @@
+{
+  "name": "vue-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vue build src/index.js -o",
+    "build": "vue build src/index.js --prod",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.1.10"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.0",    
+    "less": "^2.7.2",
+    "less-loader": "^2.2.3"
+  }
+}
