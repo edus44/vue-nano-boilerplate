@@ -1,0 +1,4 @@
+{
+  "completeMessage": "{{#inPlace}}To get started:\n\n  make.{{else}}To get started:\n\n  cd {{destDirName}}\n  make.{{/inPlace}}",
+  "skipInterpolation": "src/**/*.vue"
+}
