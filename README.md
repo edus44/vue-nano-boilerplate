@@ -1,4 +1,4 @@
-vue-micro-boilerplate
+vue-nano-boilerplate
 =========
 
 Minimum usable vue boilerplate posible, thanks to [vue-cli build](https://github.com/vuejs/vue-cli/blob/master/docs/build.md). No package.json or npm required, just `vue-cli`
